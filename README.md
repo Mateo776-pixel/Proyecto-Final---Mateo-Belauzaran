@@ -32,7 +32,7 @@ Nota: La opción de editar y eliminar publicaciones solo le está permitido al a
 
 Perdon que entregue el proyecto de la siguiente manera, estuve intentando subir al repositorio de mil maneras diferentes el proyecto, pero no logre subirlo, se me sube sin los archivos correspondientes al proyecto.
 
-Se que no es la manera correcta de entregarlo,pero no entiendo porque no se suben todos los archivos, en anteriores entregas no tuve problemas. No es la manera de presentar un proyecto final, pero no le logre encontrar la vuetlta, mil perdones.
+Se que no es la manera correcta de entregarlo,pero no entiendo porque no se suben todos los archivos, en anteriores entregas no tuve problemas. No es la manera de presentar un proyecto final, pero no logre encontrar la vuelta, mil perdones.
 
 https://drive.google.com/drive/folders/1g_uKQEARVoTFSembWYjznH7mms0wS-pi?usp=drive_link
 
